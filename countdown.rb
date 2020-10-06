@@ -8,6 +8,6 @@ def countdown(number)
     else
       puts "#{number} SECOND(S)"
     end
-    x -= 1
+    number -= 1
   end
 end
